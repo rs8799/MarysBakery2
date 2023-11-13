@@ -13,6 +13,6 @@ const cakes = new mongoose.Schema({
   openSpots:Number
 });
 
-const cakesModel = mongoose.model("cakesModel", cakesModel);
+const cakesModel = mongoose.model("cakesModel", cakes);
 
 export default cakesModel;
