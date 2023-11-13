@@ -1,7 +1,7 @@
 // models/YourModel.js
 import mongoose from "mongoose";
 
-const yourSchema = new mongoose.Schema({
+const cakes = new mongoose.Schema({
   // Define your schema fields here
   // For example:
   title: String,
