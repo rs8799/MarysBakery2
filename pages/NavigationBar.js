@@ -18,16 +18,4 @@ export default function NavigationBar() {
   )
 }
 
-      /*   <nav>
-            <div class="container">
-            
-            <img src={Logo} className="nav--logo"/>
-           
-            </div>
-            <a className="orderButton">
-            <button >Order form</button>
-            </a>
-
-        </nav>
-    )
-} */
+     

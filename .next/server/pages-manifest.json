@@ -1,0 +1,12 @@
+{
+  "/AboutUs": "pages/AboutUs.js",
+  "/_app": "pages/_app.js",
+  "/Hero": "pages/Hero.js",
+  "/_error": "pages/_error.js",
+  "/NavigationBar": "pages/NavigationBar.js",
+  "/api/getData": "pages/api/getData.js",
+  "/Formpage": "pages/Formpage.js",
+  "/homePage": "pages/homePage.js",
+  "/Card": "pages/Card.js",
+  "/_document": "pages/_document.js"
+}

@@ -1,5 +1,5 @@
 // pages/api/getData.js
-import dbConnect from "../../utils/dbConnect";
+import dbConnect from "../../lib/db.Connect";
 import cakesModel from "../../models/cakesModel";
 
 export default async function handler(req, res) {

@@ -5,9 +5,9 @@ import { useEffect, useState } from "react";
 
 function Card({data}) {
     let badgeText
-    if(props.item.openSpots === 0){
+    if(openSpots === 0){
         badgeText = "SOLD OUT"
-    } else if (props.item.location === "Online"){
+    } else if (location === "Online"){
         badgeText ="ONLINE"
     }
 
